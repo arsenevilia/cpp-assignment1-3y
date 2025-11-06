@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/a1.dir/src/main.cpp.o CMakeFiles/a1.dir/src/user_config.cpp.o CMakeFiles/a1.dir/src/system_config.cpp.o CMakeFiles/a1.dir/src/fill.cpp.o -o a1
